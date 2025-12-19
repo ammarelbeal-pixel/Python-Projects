@@ -1,15 +1,16 @@
-# Python-Projects
+# Beginner Python Projects 🐍
 
-This repository contains simple Python programs for beginners.
+This repository contains simple Python programs for beginners to practice basic programming concepts.
 
-## Projects
-- Even and Odd Number Checker
-- Sum of Even Numbers
-- Max and Min from List
-- Reverse String
+## Projects Included
 
-## How to Run
-1. Install Python
-2. Run any file using:
-   python filename.py
+### 1. Student Management System
+A simple program to manage student records including:
+- Add student names and grades
+- Show all students
+- Calculate the average grade
+- Save data to a file
 
+**How to run:**
+```bash
+python student_management.py
